@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f50274c9-6f78-43f8-b367-0d95e99c17b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/read/AppActivityGoodsLogReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/read/AppNewActivityGoodsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/read/AppNewActivityReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/read/NewProductReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/write/AppActivityGoodsLogWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/write/AppNewActivityGoodsWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/write/AppNewActivityWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/activity/write/NewProductWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/read/AppGuideLeadReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/read/AppModuleInfoReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/read/AppModuleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/read/MemberCollectsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/read/StorePriceLogReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/read/StorePriceReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/write/AppGuideLeadWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/write/AppModuleInfoWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/write/AppModuleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/write/MemberCollectsWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/write/StorePriceLogWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/app/write/StorePriceWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/AdminManagerReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/CirclePaperManageReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/DatabaseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/EntryCapacityReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/EntryForumReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/EntryTopicReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/FollowingReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgAnswerReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgBlackListReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgCourseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgMyStoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgPurpleVReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgPurpleVRuleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgPurpleVStorySelectionReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgSchoolCommentPariseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgSchoolCourseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgSchoolStoryCircleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgStoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgTeacherReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgUserReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/SgWordsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/StoryCategoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcRewardReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcSignActivityReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcSignCommunityCountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcSignReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcSignRulesReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcSignTopicCountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TUcStoryMediaReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/TagReadMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcBannerCircleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcCommentPariseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcFirstCategoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcFocusCircleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcNoticeCourseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcSecondCategoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcStoryCircleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcTagsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcTopicCategoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcTopicCircleReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcTopicTagsRefReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/read/UcUserTalentReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/AdminManagerWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/CirclePaperManageWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/DatabaseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/EntryCapacityWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/EntryForumWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/EntryTopicWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/FollowingWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgAnswerWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgBlackListWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgCourseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgMyStoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgPurpleVRuleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgPurpleVWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgSchoolCommentPariseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgSchoolCourseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgSchoolStoryCircleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgStoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgTeacherWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgUserWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/SgWordsWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/StoryCategoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TEntryTopicWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcRewardWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcSignActivityWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcSignCommunityCountWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcSignRulesWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcSignTopicCountWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcSignWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TUcStoryMediaWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/TagWriteMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcBannerCircleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcCommentCircleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcCommentPariseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcFirstCategoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcFocusCircleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcNoticeCourseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcSecondCategoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcTopicCategoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcTopicCircleWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcTopicTagsRefWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/circle/write/UcUserTalentWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/ActivityGoodsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/ActivityReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/GoodsFreeuserReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/IndexBannerCfgReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcCharityReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcDecorationtradeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcIssueAnswersDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcIssueReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcRankActiveHistoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcRankPopularityHistoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcRankStoryHistoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcStoryAwardReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/TUcUserWhitelistsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcBannerReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcCommentReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcFocusReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcPraiseReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcRecruitReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcRecruitRulesReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcSensitiveReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcStoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcSubStoryReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcThemeReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcTipReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcTopReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcTopicReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UcUserReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/UserTopicLevelReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/read/ZLogsReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/ActivityGoodsWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/ActivityWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/GoodsFreeuserWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/IndexBannerCfgWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcCharityWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcIssueAnswersWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcIssueWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcRankActiveHistoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcRankPopularityHistoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcRankStoryHistoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcStoryAwardWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/TUcUserWhitelistsWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcBannerWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcCommentWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcFocusWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcPraiseWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcRecruitRulesWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcRecruitWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcSensitiveWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcStoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcSubStoryWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcThemeWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcTipWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcTopWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcTopicWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UcUserWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/mcommunity/write/UserTopicLevelWriteDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/store/read/SgStoreMemberReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/dao/store/read/StoreInfoReadDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/activity/AppActivityGoodsLogModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/activity/AppNewActivityGoodsModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/activity/AppNewActivityModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/activity/GoodsFreeUserModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/activity/NewProductModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/AppGuideLeadModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/AppModuleInfoModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/AppModuleModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/IndexBannerCfgModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/MemberCollectsModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/StorePriceLogModelM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/app/StorePriceModelM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcBannerModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcCommentModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcFocusModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcPraiseModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcSensitiveModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcStoryModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcThemeModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcTopModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcTopicModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/bbs/UcUserModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/AdminManagerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/CirclePaperManageModelM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/DatabaseModelM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/EntryCapacityModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/EntryForumModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/EntryTopicModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/FollowingModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgAnswerModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgBlackListModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgCourseModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgMyStoryModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgPurpleVModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgPurpleVRuleModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgPurpleVStorySelectionModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgSchoolCourseModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgSchoolStoryModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgStoryModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgTeacherModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgTrainManagerModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgUserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/SgWordsModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/StoreModelM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/StoryCategoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcCharityModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcDecorationtradeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcIssueAnswersModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcIssueModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcRankActiveHistoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcRankPopularityHistoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcRankStoryHistoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcRewardModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcSignActivityModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcSignModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcSignRulesModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcStoryMediaModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/TUcUserWhitelistsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcBannerCircleModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcFirstCategoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcFocusCircleModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcNoticeCourseModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcRecruitModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcRecruitRulesModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcSecondCategoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcStoryCircleModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcSubStoryModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcTagsModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcTipModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcTopicCategoryModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcTopicCircleModelA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UcUserTalentModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/circle/UserTopicLevelModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/model/zdemo/ZLogModelM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/mq/BrowseNumListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/activity/impl/AppActivityGoodsLogServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/activity/impl/AppNewActivityGoodsSevericeImpleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/activity/impl/AppNewActivityServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/activity/impl/GoodsFreeuserServericeImpleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/activity/impl/NewProductServiceImpleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/activity/job/ActivityJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/AppGuideLeadServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/AppModuleInfoServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/AppModuleServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/AppPriceLogServiceImplM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/AppPriceServiceImplM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/IndexBannerCfgServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/app/impl/MemberCollectsServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcBannerServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcCommentServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcFocusServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcPraiseServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcSensitiveServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcStoryServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcThemeServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcTopServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcTopicServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/bbs/impl/UcUserServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/AdminManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/CirclePaperManageServiceImpleM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/DatabaseServiceImpleM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/EntryCapacityServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/EntryForumServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/EntryTopicServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/FollowingServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgAnswerServiceImpleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgBlackListServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgCourseServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgMyStoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgPurpleVRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgPurpleVServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgPurpleVStorySelectionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgSchoolCourseServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgSchoolStoryServiceImpleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgStoryEsImportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgStoryServiceImpleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgTeacherServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgTrainManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgUserJobServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/SgWordsServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/StoreServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/StoryCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcCharityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcDecorationtradeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcIssueAnswersServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcIssueSerivceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcRewardServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcSignActivityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcSignRulesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcSignServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcStoryMediaServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/TUcUserWhitelistsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcBannerCircleServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcFirstCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcFocusCircleServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcNoticeCourseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcRankHistoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcRecruitServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcStoryCircleServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcTagsServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcTipServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcTopicCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcTopicCircleServiceImplA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UcUserTalentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/circle/impl/UserTopicLevelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/rocketmq/impl/MQSendServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/tag/impl/TagServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/service/zdemo/impl/ZLogServiceImplM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/utils/List2MapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/utils/PagerInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/utils/Pagination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/utils/PinYinUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/java/com/haier/m/sgcommunity/utils/SimplePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/assemble-descriptor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/bin/restart.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/bin/start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/bin/start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/bin/stop.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/activity_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/conf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/datasources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/dubbo.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/httpclient_uri_dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/httpclient_uri_prd.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/httpclient_uri_pre.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/httpclient_uri_test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/log4j.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/rabbit.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis.properties.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis_branches_pretest.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis_dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis_prd.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis_pre.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis_test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/redis_trunk_pretest.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/rocket.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/service-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/spring-rabbitmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/spring-redis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/conf/spring-rocketmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/mobile-community-service-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/ActivityGoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/ActivityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/AppActivityGoodsLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/AppGuideLeadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/AppModuleInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/AppModuleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/AppNewActivityGoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/AppNewActivityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/CirclePaperManageReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/DatabaseReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/EntryCapacityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/EntryForumMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/EntryTopicMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/FollowingMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/GoodsFreeuserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/IndexBannerCfgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/MemberCollectsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/NewProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgAnswerReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgBlackListMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgCourseReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgMyStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgPurpleVReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgPurpleVRuleReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgPurpleVStorySelectionReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgSchoolAdminReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgSchoolCommentPariseReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgSchoolCourseReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgSchoolStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgStoryReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgTeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/SgWordsReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/StorePriceLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/StorePriceMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/StoryCategoryReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcCharityReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcDecorationtradeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcIssueAnswers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcIssueMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcRankActiveHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcRankPopularityHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcRankStoryHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcRewardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcSignActivityReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcSignCommunityCountReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcSignReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcSignRulesReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcSignTopicCountReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcStoryAwardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcStoryMediaMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TUcUserWhitelistsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/TagReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcBannerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcBannerReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcCommentPariseReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcFirstCategoryReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcFocusMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcFocusReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcNoticeCourseReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcPraiseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcRecruitMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcRecruitRulesMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcSecondCategoryReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcSensitiveMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcStoryReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcSubStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTagsReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcThemeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTipReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTopMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTopicCategoryReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTopicMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTopicReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcTopicTagsRefReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UcUserTalentReadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/UserTopicLevelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/read/ZLogsMappper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/ActivityGoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/ActivityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/AppActivityGoodsLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/AppGuideLeadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/AppModuleInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/AppModuleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/AppNewActivityGoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/AppNewActivityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/CirclePaperManageWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/DatabaseWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/EntryCapacityWriteMappe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/EntryForumWriteMappe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/EntryTopicWriteMappe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/FollowingMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/GoodsFreeuserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/IndexBannerCfgMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/MemberCollectsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/NewProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgAnswerWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgBlackListMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgCourseWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgPurpleVRuleWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgPurpleVWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgSchoolAdminWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgSchoolCommentPariseWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgSchoolCourseWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgSchoolStoryWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgTeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgUserWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/SgWordsWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/StorePriceLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/StorePriceMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/StoryCategoryWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TEntryTopicMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcCharityWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcIssueAnswers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcIssueMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcRankActiveHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcRankPopularityHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcRankStoryHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcRewardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcSignActivityWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcSignCommunityCountWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcSignRulesWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcSignTopicCountWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcSignWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcStoryAwardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcStoryMediaMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TUcUserWhitelistsWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/TagsWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcBannerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcCommentPariseWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcCommentWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcFirstCategoryWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcFocusMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcFocusWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcNoticeCourseWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcPraiseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcRecruitMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcRecruitRulesMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcSecondCategoryWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcSensitiveMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcSubStoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcThemeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcTipWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcTopMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcTopicCategoryWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcTopicMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcTopicTagsRef.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcTopicWriteMappe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UcUserTalentWriteMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/mcommunity/write/UserTopicLevelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/store/read/SgStoreMemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/main/resources/sql-mapper/store/read/StoreInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/ProviderMainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestAppModuleInfoServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestAppModuleServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestBlackListServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestEntryTopicServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestEsImportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestFocusServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestRedis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestSgStoryServiceAImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestSgUserJobServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestSgUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestStoryInsertServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestSubStoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestTUcIssueServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestTopicCircleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestUcBannerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestUcFirstCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestUcFocusServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestUserTopicLevelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/TestZLogServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/recruit/TestRecruitServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/java/com/haier/m/sgcommunity/impl/testNewProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/activity_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/conf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/datasources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/dubbo.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/httpclient_uri_dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/httpclient_uri_prd.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/httpclient_uri_pre.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/httpclient_uri_test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/log4j.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/redis_dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/redis_prd.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/redis_pre.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/redis_test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/service-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/spring-redis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/spring-rocketmq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-impl/src/test/resources/test-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-parent/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/java/com/haier/m/sgcommunity/rabbitmq/service/impl/SendMQServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/resources/META-INF/rabbit/rabbit_dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/resources/META-INF/rabbit/rabbit_prd.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/resources/META-INF/rabbit/rabbit_pre.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/resources/META-INF/rabbit/rabbit_test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/main/resources/META-INF/spring/mobile-sgcommunity-rabbitmq-bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/java/com/haier/m/service/test/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/java/com/haier/m/service/test/MQPrdSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/java/com/haier/m/service/test/MQSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/java/com/haier/m/service/test/RegistInfoExtend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/resources/log4j.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-rabbitmq/src/test/resources/service-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/AdminManageEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/CirclePaperManageEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/DatabaseEditEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/DatabaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/EntryCapacityEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/EntryForumEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/EntryTopicEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/FansEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/FollowEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/Following.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/InterestedEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/PostProductEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/PurpleV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/PurpleVEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/PurpleVRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/PurpleVStorySelection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgAnswerEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgAnswerOptionsEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgBlackEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgBlackListEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgHotStoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgMaterialEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgMyStoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgSchoolCommentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgSchoolCommentPariseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgSchoolCourseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgSchoolStoryInfoEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgShareEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgTSchoolAdminEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgTeacherEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgTeacherListEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgTopicAdminEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgWordsEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/SgWordsListEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/StoreInfoCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/StoryCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TEntryTopicEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TSchoolStoryCourseRefEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcCourseTeacherRefEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcReward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSignActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSignCommunityCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSignReplenishRules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSignRules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSignSpecialdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcSignTopicCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcStoryBrowseRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcStoryCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcStoryDeleteRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcStoryMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcStoryTagsRef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcTagsCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/TUcUserTalentRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcCommentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcCommentForWebEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcCommentPariseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcCourseJoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcDownload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcFirstCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcSecondCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcStoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcTagsCategoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcTagsEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcTopicCategoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/circle/entity/UcTopicTagsRefEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/ActivityGoods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/AppActivityGoodsLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/AppModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/AppModuleInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/AppPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/AppPriceLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/GoodsFreeuser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/GuideLead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/IndexBannerCfg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/MemberCollects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/MqAnyCountParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/MqTranscodeParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/SgStoreMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/StoryAuth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/StoryCommentAndShareDataVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcCharityOrg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcDecorationtrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcIssue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcIssueAnswers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcIssueCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcIssueCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcIssuePraise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcIssueShare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcRankActiveHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcRankPopularityHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcRankStoryHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcUserCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/TUcUserWhitelists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcFocus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcFocusCategoryEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcPraise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcRecruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcRecruitRules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcSensitive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcStoryAward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcSubStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcTheme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcTip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcTipVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcTop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcTopic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UcUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UserTiped.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/UserTopicLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/entity/ZLogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/MqSendService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/SendMQService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/activity/AppActivityGoodsLogServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/activity/AppNewActivityGoodsServericeA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/activity/AppNewActivityServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/activity/GoodsFreeuserServericeA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/activity/NewProductSevericeA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/AppGuideLeadServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/AppModuleInfoServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/AppModuleServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/AppPriceLogServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/AppPriceServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/MemberCollectsServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/app/UcIndexServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcBannerServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcCommentServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcFocusServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcPraiseServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcSensitiveServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcStoryServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcThemeServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcTopServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcTopicServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/bbs/UcUserServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/AdminManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/CirclePaperManageServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/DatabaseServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/EntryCapacityServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/EntryForumServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/EntryTopicServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/FollowingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgAnswerServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgBlackListService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgCourseServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgMyStoryServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgPurpleVRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgPurpleVService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgPurpleVStorySelectionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgSchoolCourseServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgSchoolStoryServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgStoryEsImportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgStoryServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgTeacherServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgTrainManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgUserJobService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/SgWordsServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/StoreServiceCircleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/StoryCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcCharityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcDecorationtradeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcIssueAnswersService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcIssueSerivce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcRewardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcStoryMediaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/TUcUserWhitelistsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcBannerCircleServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcFirstCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcFocusCircleServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcNoticeCourseServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcRankHistoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcRecruitService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcSignActivityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcSignRulesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcSignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcStoryCircleServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcTagsServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcTipService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcTopicCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcTopicCircleServiceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UcUserTalentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/circle/UserTopicLevelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/tag/TagService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/service/zdemo/ZLogServiceM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/utils/Pager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/utils/Pagination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-sgcommunity-service/src/main/java/com/haier/m/sgcommunity/utils/SimplePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="263572150">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="20" />
+          <entry key="js" value="1" />
+          <entry key="json" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3861" />
+          <entry key="js" value="198" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3861" />
+          <entry key="JavaScript" value="198" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortedStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SynchronizedRGB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>runState</find>
+      <find>volatile</find>
+      <find>TERMINATED</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/file.js" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/data2.json" />
+        <option value="$PROJECT_DIR$/src/SynchronizedRGB.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SortedStudent.java" />
+        <option value="$PROJECT_DIR$/src/XiaoMu.java" />
+        <option value="$PROJECT_DIR$/src/ZookeeperDistributedLock.java" />
+        <option value="$PROJECT_DIR$/src/test1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="40" />
+    <option name="width" value="1555" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWord" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565070826165" />
+    <property name="last_opened_file_path" value="D:/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HelloWord" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedStudent" />
+      <module name="HelloWord" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="HelloWord" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.SortedStudent" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.SortedStudent" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f50274c9-6f78-43f8-b367-0d95e99c17b9" name="Default Changelist" comment="" />
+      <created>1553480130800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553480130800</updated>
+      <workItem from="1553480133983" duration="3762000" />
+      <workItem from="1557122302509" duration="1056000" />
+      <workItem from="1557733963625" duration="7497000" />
+      <workItem from="1559108484559" duration="11772000" />
+      <workItem from="1559540578256" duration="7253000" />
+      <workItem from="1559636418473" duration="615000" />
+      <workItem from="1559717897181" duration="157000" />
+      <workItem from="1560164973254" duration="3256000" />
+      <workItem from="1561457406574" duration="325000" />
+      <workItem from="1562230552371" duration="841000" />
+      <workItem from="1562553564834" duration="13748000" />
+      <workItem from="1563326279541" duration="8502000" />
+      <workItem from="1563416811111" duration="3311000" />
+      <workItem from="1563760024212" duration="11562000" />
+      <workItem from="1564103601914" duration="6048000" />
+      <workItem from="1564364081911" duration="148000" />
+      <workItem from="1564364257248" duration="714000" />
+      <workItem from="1564465687131" duration="111000" />
+      <workItem from="1564968790185" duration="11497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92175000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6865248" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="6" sideWeight="0.3134752" side_tool="true" visible="true" weight="0.21983914" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.2609929" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2070922" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.13873994" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HelloWord.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XiaoMu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZookeeperDistributedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortedStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="217" column="12" selection-start-line="217" selection-start-column="12" selection-end-line="217" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="180" column="19" selection-start-line="180" selection-start-column="19" selection-end-line="180" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="127" column="27" lean-forward="true" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+          <folding>
+            <element signature="e#2940#2941#0" expanded="true" />
+            <element signature="e#2990#2991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="76" column="46" lean-forward="true" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="410" column="62" lean-forward="true" selection-start-line="410" selection-start-column="62" selection-end-line="410" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SynchronizedRGB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloWord</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

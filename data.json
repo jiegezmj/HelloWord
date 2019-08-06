@@ -1,0 +1,110 @@
+{
+  "addr": "第三方",
+  "aid": 113472,
+  "bl": [
+    {
+      "benefitType": "sgb",
+      "billing": "1",
+      "commisionSettle": "1",
+      "count": "87388.57",
+      "paymentSettle": "1",
+      "proportion": "1",
+      "quota": "1.00"
+    }
+  ],
+  "book": false,
+  "cc": false,
+  "cco": false,
+  "cd": 0,
+  "ch": 70,
+  "cid": 718,
+  "ckC": "1383068257",
+  "cl": false,
+  "coAmt": 0,
+  "coN": "返回",
+  "hasPwd": true,
+  "ic": false,
+  "inv": {
+    "it": 2,
+    "iti": "返回",
+    "mi": 1383068257,
+    "nit": 1
+  },
+  "ip": "223.104.3.187",
+  "ipm": 0,
+  "mb": "15811596211",
+  "mid": 1383068257,
+  "na": 0,
+  "oam": 5.00,
+  "ops": [],
+  "ot": 14,
+  "pam": 5.00,
+  "pays": [
+    {
+      "code": "online",
+      "name": "在线支付"
+    }
+  ],
+  "pid": 10,
+  "pu": false,
+  "pyc": "online",
+  "pyw": "在线支付",
+  "rid": 2593,
+  "rn": "上海 上海 宝山区 大场镇",
+  "ru": "",
+  "sam": 0,
+  "sht": false,
+  "sid": 12048135,
+  "sos": [
+    {
+      "ct": 3,
+      "ops": [
+        {
+          "ai": "3223",
+          "as": false,
+          "at": 0,
+          "ban": false,
+          "bd": 0,
+          "bdId": "4",
+          "book": false,
+          "br": 299,
+          "c": false,
+          "cb": false,
+          "com": 0.01,
+          "cs": "",
+          "dep": "AA",
+          "hasS": false,
+          "ifs": false,
+          "ifsl": false,
+          "image": "http://cdn02.ehaier.com/product/4e2fbaa934198c4c7a00001e.jpg",
+          "nls": 0,
+          "num": 1,
+          "opa": 5.00,
+          "oto": false,
+          "ott": 50,
+          "pa": 0,
+          "pc": 5.00,
+          "pf": 0,
+          "price": 5.00,
+          "proC": 2743,
+          "proId": 15013,
+          "proN": "订单满减05",
+          "procp": "/2743/",
+          "pt": 0,
+          "py": 197,
+          "sat": "1",
+          "shMo": "B2B2C",
+          "sku": "DINGDANMANJIAN-05",
+          "spu": false,
+          "st": 0,
+          "sty": "WA",
+          "tb": false
+        }
+      ]
+    }
+  ],
+  "source": "MSTORE",
+  "t": 0,
+  "taobaoGroupId": 0,
+  "tb": false
+}

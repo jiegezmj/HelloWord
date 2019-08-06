@@ -1,0 +1,149 @@
+{
+  "addr": "的说法发",
+  "aid": 113480,
+  "bl": [
+    {
+      "benefitType": "seashell",
+      "billing": "1",
+      "commisionSettle": "1",
+      "count": "7806",
+      "paymentSettle": "1",
+      "proportion": "100",
+      "quota": "0.10"
+    },
+    {
+      "benefitType": "diamond",
+      "billing": "1",
+      "commisionSettle": "1",
+      "count": "997551",
+      "paymentSettle": "1",
+      "proportion": "1",
+      "quota": "0.10"
+    },
+    {
+      "benefitType": "insurance",
+      "billing": "1",
+      "commisionSettle": "0",
+      "count": "965776",
+      "paymentSettle": "1",
+      "proportion": "100",
+      "quota": "0.10"
+    },
+    {
+      "benefitType": "sgb",
+      "billing": "1",
+      "commisionSettle": "1",
+      "count": "87388.57",
+      "paymentSettle": "1",
+      "proportion": "1",
+      "quota": "1.00"
+    }
+  ],
+  "book": false,
+  "cc": true,
+  "cco": true,
+  "cd": 0,
+  "ch": 60,
+  "cid": 716,
+  "ckC": "1383068257",
+  "cl": false,
+  "coAmt": 5.00,
+  "coId": 151205,
+  "coN": "速度快发了",
+  "dd": "2019年06月12日",
+  "hasPwd": true,
+  "ic": false,
+  "inv": {
+    "it": 2,
+    "iti": "速度快发了",
+    "mi": 1383068257,
+    "nit": 1
+  },
+  "ip": "223.104.3.187",
+  "ipm": 0,
+  "mb": "15811596211",
+  "mid": 1383068257,
+  "na": 0,
+  "oam": 0.00,
+  "ops": [],
+  "ot": 0,
+  "pam": 5.00,
+  "pays": [
+    {
+      "code": "online",
+      "name": "在线支付"
+    },
+    {
+      "code": "cod",
+      "name": "货到付款"
+    }
+  ],
+  "pid": 2,
+  "pu": false,
+  "pyc": "online",
+  "pyw": "在线支付",
+  "rid": 938,
+  "rn": "北京 北京 朝阳区 安贞街道",
+  "ru": "http://mobiletest.ehaier.com:38080/www/index.html#/productDetail/15013/50//1383068257/",
+  "sam": 0,
+  "sd": "2019年06月12日",
+  "sht": true,
+  "sid": 12024651,
+  "sos": [
+    {
+      "ct": 3,
+      "ops": [
+        {
+          "ai": "3223",
+          "as": false,
+          "at": 0,
+          "ban": false,
+          "bd": 0,
+          "bdId": "4",
+          "book": false,
+          "br": 299,
+          "c": true,
+          "cb": false,
+          "cli": 151205,
+          "com": 0.01,
+          "cs": "货到付款 ",
+          "dep": "AA",
+          "hasS": true,
+          "ifs": false,
+          "ifsl": false,
+          "image": "http://cdn02.ehaier.com/product/4e2fbaa934198c4c7a00001e.jpg",
+          "ipm": 0,
+          "lc": ",136,716,135,",
+          "nls": 0,
+          "num": 1,
+          "opa": 5.00,
+          "oto": false,
+          "ott": 50,
+          "pa": 0,
+          "pc": 5.00,
+          "pca": 5.00,
+          "pf": 0,
+          "price": 5.00,
+          "proC": 2743,
+          "proId": 15013,
+          "proN": "订单满减05",
+          "procp": "/2743/",
+          "pt": 0,
+          "py": 197,
+          "sat": "1",
+          "shMo": "B2B2C",
+          "sku": "DINGDANMANJIAN-05",
+          "spu": false,
+          "st": 0,
+          "sty": "WA",
+          "tb": false
+        }
+      ]
+    }
+  ],
+  "source": "MSTORE",
+  "t": 0,
+  "taobaoGroupId": 0,
+  "tb": false,
+  "tca": 5.00
+}
