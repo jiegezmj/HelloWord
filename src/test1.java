@@ -1,4 +1,4 @@
-/*
+
 import com.sun.javafx.collections.MappingChange;
 
 import java.text.SimpleDateFormat;
@@ -17,7 +17,7 @@ public class test1 {
 //        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
         //Integer currentDate = Integer.valueOf(sdf.format(d));
 //        System.out.print(sdf.format(d));
-        ThreadPoolExecutor
+
         Integer s1 =16,s2 = 2<<3, t1 = 1024 , t2 = Integer.parseInt("1024");
         System.out.println(s1 == s2);
         System.out.println(s1.equals(s2));
@@ -48,6 +48,7 @@ public class test1 {
         System.out.println(getNumberIndex(a,9));
     }
 
+//字符数组去重
     public static Map<Character,Integer> sortArrayToMap(char[] charArray) {
         Map<Character, Integer> map = new HashMap<Character, Integer>();
         if (charArray.length != 0) {
@@ -62,6 +63,7 @@ public class test1 {
         return map;
     }
 
+//寻找最大值
     public static char findMaxKey(Map<Character,Integer> map){
         Iterator itera = map.entrySet().iterator();
         Map.Entry entry = (Map.Entry)itera.next();
@@ -99,6 +101,8 @@ public static int getNumberIndex(int[] arrays,int num){
         return -1;
 }
 
+
+//递归求二叉树的深度
 public int dfs(TreeNode root){
         if(root == null)
             return 0;
@@ -106,6 +110,23 @@ public int dfs(TreeNode root){
         int rightDepth = dfs(root.TREE_RIGHT)+1;
         return leftDepth>rightDepth?leftDepth:rightDepth;
 }
+
+    //二分查找法
+    private int getIndex(int[] a,int b){
+        int start = 0;
+        int end = a.length-1;
+        while(start < end){
+            int mid = (start+end)/2;
+            if(a[mid] == b){
+                return mid;
+            }else if(a[mid]<b){
+                start = mid+1;
+            }else {
+                end = mid -1;
+            }
+        }
+        return -1;
+    }
 
 }
 class ThreadDemo implements Callable<Integer>{
@@ -119,4 +140,5 @@ class ThreadDemo implements Callable<Integer>{
 
 
 }
-*/
+
+

@@ -39,12 +39,4 @@ public class Main {
 //    }
 //}
 //
-//class Singleton{
-//    private static Singleton singleton = null;
-//    public Singleton(){}
-//    public Singleton getSingleton(){
-//        if(singleton == null)
-//        singleton = new Singleton();
-//        return singleton;
-//    }
 }

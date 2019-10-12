@@ -5,6 +5,7 @@ public class BinarySearchTree {
         this.root = null;
     }
 
+    //二叉树查找
     public TreeNode search(int key) {
         TreeNode current = root;
         while (current != null && current.value != key) {

@@ -30,6 +30,26 @@ public class CombineTwoSortedArray {
             System.out.print(m + " ");
         }
     }
+
+
+
+
+    public static void merge1(int[] a,int[] b){
+        int[] c = new int [a.length+b.length];
+        int i = 0,j = 0, k = 0;
+        while(i < a.length || j < b.length){
+            if(i<a.length && j == b.length){
+                c[k++] = a [i++];
+            }else if(i == a.length && j < b.length){
+                c [k++] = b [j++];
+            }else if(a[i]<=b[j]){
+            c[k++]=a[i++];
+            }else {
+            c[k++]=b[j++];
+            }
+        }
+        Arrays.stream(c).forEach(System.out::println);
+    }
 }
 //Arrays.sort(sortedArray);
 
